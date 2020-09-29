@@ -1,3 +1,3 @@
 # EarlyDetectionData
 
-RQ1 for complete experiment results for RQ1
+RQ1-data for complete experiment results in RQ1
